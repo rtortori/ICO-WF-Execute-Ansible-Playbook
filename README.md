@@ -43,7 +43,6 @@ By importing, a new `Ansible Variables` data type will also be created.
 ## Notes
 
 - See [Intersight Help - Ansible Executor](https://intersight.com/help/appliance/resources/Executor_Ansible) for instruictions on how to use the Ansible Executor in ICO
-- Visit [Cisco Software Central](https://software.cisco.com) to download the latest SCU image for your servers 
 - Visit [ansible-playbook CLI documentation](https://docs.ansible.com/ansible/latest/cli/ansible-playbook.html) for additional details on command line arguments and host inventory
 
 The command line arguments for running the Ansible playbook against the given endpoint.
